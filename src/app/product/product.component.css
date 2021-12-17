@@ -1,8 +1,9 @@
 h2{
-    font-weight: lighter;
-    font-size: 20px;
-    text-align: left;
-    color:#1976d2;
+  font-family: sans-serif;
+  font-weight: lighter;
+  font-size: 20px;
+  text-align: left;
+  color:#1976d2;
 
 }
 button{
